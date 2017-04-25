@@ -1,0 +1,6 @@
+-
+25;Carrasco;Montevideo;Uruguay;MVD;MONT;-25.645.23;-50.654.23;500;-3;A;America/Montevideo
+30;AeroSalto;Salto;Uruguay;SAL;SALTO;-34.654.75;200.545.65;250;-4;A;America/Salto
+35;PtaDelEste;Punta del Este;Uruguay;PDE;PTDE;-98.545.23;100.00.50;100;-2;N;America/Punta Del Este
+40;Aeroparque;Buenos Aires;Argentina;BSA;BSAS;-90.500.43;20.25.34;250;-2;N;America/Buenos Aires
+10;Duraznito;Durazno;Uruguay;DUR;DUUR;-100.21.40;25.657.432;140;-3;A;America/Durazno
